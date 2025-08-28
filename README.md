@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 Note:
 1.	The annex will be used as support materials of this paper " Deep Learning-Empowered Single-Finger Tactile Device for Accessible Force/Position HCI in Upper-Limb Disabilities".
