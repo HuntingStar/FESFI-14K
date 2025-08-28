@@ -8,10 +8,14 @@ Annex description
 We use the Supplementary Materials to show more experimental details. The Supplementary Materials contains four files: Annex description, Appendixes, codes, and Supplementary Movie S1,2,3. The detailed file directory and description are shown as follows.
 
 ├─ Annex description.pdf          ## A basic introduction for this annex.
+
 ├─ Supplementary Movie S1,2,3    ## The video demonstrates the operation process of the 
 trajectory experiment and two interactive games proposed in the paper.
+
 ├─ codes    ## Codes File. These codes are used to train the model proposed in this paper. 
+
 ├─ CNN     ## Model code for training model location coarse classification in SFTID location prediction
+
 ├─ MLP     ## This file is used to train the force/position accurate prediction model for                    
                   each region after the rough classification of the model in the SFTID position prediction.
 
